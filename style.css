@@ -1,0 +1,9 @@
+.search-btn {
+    margin-top: 10px;
+}
+
+.single-country {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+}
